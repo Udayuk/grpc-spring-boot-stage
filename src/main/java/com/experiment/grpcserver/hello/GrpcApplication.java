@@ -1,4 +1,4 @@
-package com.experiment.grpc;
+package com.experiment.grpcserver.hello;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
